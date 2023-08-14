@@ -16,7 +16,7 @@ public class Program
         Console.Write("TC kimlik numaranızı giriniz: ");
         string tc = Console.ReadLine();
         Console.WriteLine("'" + tc + "' bilgisi sonucu: " + TcDogrula(tc));
-        
+        Console.WriteLine("deneme");
     }
     
 
